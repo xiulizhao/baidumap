@@ -1,6 +1,10 @@
 # baidumap
-百度地图元素用于绘制地图信息<br>
+百度地图元素用于绘制地图信息，百度地图历史轨迹路线元素，百度路线图轨迹回放元素，轨迹回放元素，百度地图实时轨迹元素，百度地图圆形检索等<br>
 <img src="http://www.wware.org/img/baidumap2.png?_1287" width="600px"><br>
+<img src="http://www.wware.org/img/maplx.png?_b549" width="600px"><br>
+<img src="http://www.wware.org/img/lushu.png?_9d9c" width="600px"><br>
+<img src="http://www.wware.org/img/fds.png?_34f4" width="600px"><br>
+<img src="http://www.wware.org/img/baiduyuan.jpg?_7c5" width="600px"><br>
 普通属性<br>
 data-dragging	当设置拖拽点时,可通过此属性设置拖拽点是否可以拖拽.设置为true时可拖拽,不设置或设置为false不可拖拽.不可拖拽时,可用来设置地图单个标注	"true"<br>
 data-opensearchaddress	添加搜索框检索地址时，需要将该属性设置为true	true/false<br>
