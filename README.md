@@ -2,7 +2,6 @@
 百度地图元素用于绘制地图信息，百度地图历史轨迹路线元素，百度路线图轨迹回放元素，轨迹回放元素，百度地图实时轨迹元素，百度地图圆形检索等<br>
 <img src="http://www.wware.org/img/baidumap2.png?_1287" width="600px"><br>
 <img src="http://www.wware.org/img/maplx.png?_b549" width="600px"><br>
-<img src="http://www.wware.org/img/lushu.png?_9d9c" width="600px"><br>
 <img src="http://www.wware.org/img/fds.png?_34f4" width="600px"><br>
 <img src="http://www.wware.org/img/baiduyuan.jpg?_7c5" width="600px"><br>
 普通属性<br>
